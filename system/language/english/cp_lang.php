@@ -19,6 +19,8 @@ $lang = array(
 
 'msm_manager' => 'Sites',
 
+'nav_content' => 'Content',
+
 'nav_developer' => 'Developer',
 
 'nav_developer_tools' => 'Developer Tools',
@@ -639,7 +641,7 @@ $lang = array(
 
 'login' => 'Log In',
 
-'new_ticket' => 'New Ticket',
+'new_ticket' => 'Get Support',
 
 'not_entered' => 'not entered',
 
