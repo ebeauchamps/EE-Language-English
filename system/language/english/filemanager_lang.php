@@ -114,10 +114,8 @@ $lang = array(
 
 'upload_options' => 'Upload options',
 
-
 /* sidebar */
 'zero_directories_found' => 'No <b>Directories</b> found',
-
 
 /* modal */
 '90_degrees_left' => '90 degrees, left',
@@ -243,7 +241,6 @@ $lang = array(
 'y_axis' => 'y-axis',
 
 'zero_upload_directories_found' => 'No <b>upload directories</b> found.',
-
 
 /* Uploads */
 'add_manipulation' => 'Add New Manipulation',
@@ -502,7 +499,6 @@ $lang = array(
 
 'watermarks_true_type_desc' => 'When enabled, text watermarks will be rendered with True Type.',
 
-
 /* 2.x */
 'choose_file' => 'Please choose a file to delete',
 
@@ -577,7 +573,6 @@ $lang = array(
 'upload_success' => 'Upload Successful',
 
 'where' => 'Where',
-
 
 /* Upload modal */
 'all_categories' => 'all categories',
@@ -731,7 +726,7 @@ $lang = array(
 
 'pagination_page' => 'Page',
 
-'php_max_filesize'=>'Maximum upload size allowed by PHP is %s',
+'php_max_filesize' => 'Maximum upload size allowed by PHP is %s',
 
 'please_add_upload' => 'There are currently no upload directories available. Please add one or more upload directories to use the File field type.',
 
@@ -817,14 +812,12 @@ $lang = array(
 
 'width_needed' => 'A width or width/height must be selected, or a rotate/flip direction selected.',
 
-
 /* Batch Page */
 'caption' => 'Caption',
 
 'include' => 'Include?',
 
 'thumbnail' => 'Thumbnail',
-
 
 /* Watermark */
 'add_watermark' => 'None',

@@ -72,14 +72,13 @@ $lang = array(
 
 'tools_utilities' => 'Utilities',
 
-'trans_file_not_writable'=> 'Translation file is not writeable.',
+'trans_file_not_writable' => 'Translation file is not writeable.',
 
 'translation' => 'Translation',
 
 'translation_tool' => 'Translation Utility',
 
 'united_states' => 'United States',
-
 
 /* Config Editor */
 'false' => 'False',
@@ -91,7 +90,6 @@ $lang = array(
 'setting' => 'Setting',
 
 'true' => 'True',
-
 
 /* Translation */
 'screen_name' => 'Screen Name',

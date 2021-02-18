@@ -95,7 +95,7 @@ $lang = array(
 The following files are affected:
 {changed}
 
-If you made these changes, please accept the modifications on the control panel homepage. If you did not alter these files it may indicate a hacking attempt. Check the files for any suspicious contents (JavaScript or iFrames) and see: '.DOC_URL.'troubleshooting/error_messages/expressionengine_has_detected_the_modification_of_a_core_file.html',
+If you made these changes, please accept the modifications on the control panel homepage. If you did not alter these files it may indicate a hacking attempt. Check the files for any suspicious contents (JavaScript or iFrames) and see: ' . DOC_URL . 'troubleshooting/error_messages/expressionengine_has_detected_the_modification_of_a_core_file.html',
 
 'checksum_email_subject' => 'A core file was modified on your site.',
 
@@ -131,20 +131,27 @@ If you made these changes, please accept the modifications on the control panel 
 
 'redirect_xss_fail' => 'The link you are being redirected to contained some potentially malicious or dangerous code. We recommend you hit the back button and email %s to report the link that generated this message.',
 
+'redirect_warning_header' => 'Redirect Warning',
+
+'redirect_description' => 'You\’re opening a new web page going to host <b>%s</b> that is not part of',
+
+'redirect_check_address' => 'Please double check that the address is correct.',
+
+'redirect_cancel' => 'Cancel',
+
 'submission_error' => 'The form you submitted contained the following errors',
 
 'theme_folder_wrong' => 'Your theme folder path is incorrect. Please go to <a href="%s">URL and Path Settings</a> and check the <code>Themes Path</code> and <code>Themes URL</code>.',
 
-'unable_to_load_field_type' => 'Unable to load requested field type file: %s.<br /> Confirm the fieldtype file is located in the /'.SYSDIR.'/user/addons/ directory',
+'unable_to_load_field_type' => 'Unable to load requested field type file: %s.<br /> Confirm the fieldtype file is located in the /' . SYSDIR . '/user/addons/ directory',
 
-'unwritable_cache_folder' => 'Your cache folder does not have proper permissions.<br />To fix: Set the cache folder (/'.SYSDIR.'/user/cache/) permissions to 777 (or equivalent for your server).',
+'unwritable_cache_folder' => 'Your cache folder does not have proper permissions.<br />To fix: Set the cache folder (/' . SYSDIR . '/user/cache/) permissions to 777 (or equivalent for your server).',
 
-'unwritable_config_file' => 'Your configuration file does not have the proper permissions.<br />To fix: Set the config file (/'.SYSDIR.'/user/config/config.php) permissions to 666 (or equivalent for your server).',
+'unwritable_config_file' => 'Your configuration file does not have the proper permissions.<br />To fix: Set the config file (/' . SYSDIR . '/user/config/config.php) permissions to 666 (or equivalent for your server).',
 
-'version_mismatch' => 'Your ExpressionEngine installation&rsquo;s version (%s) is not consistent with the reported version (%s). <a href="'.DOC_URL.'installation/update.html" rel="external">Please update your installation of ExpressionEngine again</a>.',
+'version_mismatch' => 'Your ExpressionEngine installation&rsquo;s version (%s) is not consistent with the reported version (%s). <a href="' . DOC_URL . 'installation/update.html" rel="external">Please update your installation of ExpressionEngine again</a>.',
 
 'php72_intl_error' => 'Your <code>intl</code> PHP extentsion is out-of-date. Please ensure you have <code>ICU 4.6</code> or newer installed.',
-
 
 /* Member Groups */
 'banned' => 'Banned',
@@ -156,7 +163,6 @@ If you made these changes, please accept the modifications on the control panel 
 'pending' => 'Pending',
 
 'super_admins' => 'Super Admins',
-
 
 /* Template.php */
 'error_fix_module_processing' => 'Please check that the \'%x\' module is installed and that \'%y\' is an available method of the module',
@@ -179,7 +185,6 @@ If you made these changes, please accept the modifications on the control panel 
 
 'template_loop' => 'You have caused a template loop due to improperly nested sub-templates (\'%s\' recursively called)',
 
-
 /* Email */
 'error_sending_email' => 'Unable to send email at this time.',
 
@@ -195,7 +200,6 @@ If you made these changes, please accept the modifications on the control panel 
 
 'your_new_login_info' => 'Login information',
 
-
 /* Timezone */
 'invalid_date_format' => 'The date format you submitted is invalid.',
 
@@ -204,7 +208,6 @@ If you made these changes, please accept the modifications on the control panel 
 'no_timezones' => 'No Timezones',
 
 'select_timezone' => 'Select Timezone',
-
 
 /* Date */
 'singular' => 'one',

@@ -50,6 +50,9 @@ $lang = array(
 'updateAddons_step' =>
 'Checking addons for automatic updates',
 
+'turnSystemOn_step' =>
+'Turning system on',
+
 'files_not_writable' =>
 'The following paths are not writable:
 
@@ -125,7 +128,7 @@ Please make sure you have the latest version of each file in place and then try 
 'update_rolledback_desc' =>
 'Contact support if you continue having trouble updating, or you can <a href=\'%s\' rel=\'external\'>manually update</a>.',
 
-''=>''
+'' => ''
 );
 
 // EOF

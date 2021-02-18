@@ -190,7 +190,7 @@ $lang = array(
 
 'email_taken' => 'The email you chose is not available',
 
-'email_too_long' => 'Your email address cannot be over '.USERNAME_MAX_LENGTH.' characters in length',
+'email_too_long' => 'Your email address cannot be over ' . USERNAME_MAX_LENGTH . ' characters in length',
 
 'email_username' => 'Email %s',
 
@@ -380,7 +380,7 @@ $lang = array(
 
 'password_in_dictionary' => 'You are not allowed to use a word found in a dictionary as a password',
 
-'password_too_long' => 'Your password cannot be over '.PASSWORD_MAX_LENGTH.' characters in length',
+'password_too_long' => 'Your password cannot be over ' . PASSWORD_MAX_LENGTH . ' characters in length',
 
 'password_too_short' => 'Your password must be at least %d characters long',
 
@@ -442,7 +442,7 @@ $lang = array(
 
 'screen_name_taken' => 'The screen name you chose is not available',
 
-'screenname_too_long' => 'Your screen name cannot be over '.USERNAME_MAX_LENGTH.' characters in length',
+'screenname_too_long' => 'Your screen name cannot be over ' . USERNAME_MAX_LENGTH . ' characters in length',
 
 'search_subscriptions' => 'Search Subscriptions',
 
@@ -514,7 +514,7 @@ $lang = array(
 
 'type' => 'Type',
 
-'unsubscribe'=> 'Unsubscribe',
+'unsubscribe' => 'Unsubscribe',
 
 'unsubscribe_success' => 'You have been successfully unsubscribed.',
 
@@ -539,7 +539,7 @@ $lang = array(
 
 'username_taken' => 'The username you chose is not available',
 
-'username_too_long' => 'Your username cannot be over '.USERNAME_MAX_LENGTH.' characters in length',
+'username_too_long' => 'Your username cannot be over ' . USERNAME_MAX_LENGTH . ' characters in length',
 
 'username_too_short' => 'Your username must be at least %d characters long',
 

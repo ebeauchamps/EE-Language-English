@@ -27,7 +27,6 @@ $lang = array(
 
 'unauthorized_request' => 'You are not authorized to perform this action',
 
-
 'email_address' => 'e-mail address',
 
 'enter_new_password' => 'Enter a New Password',
@@ -51,6 +50,14 @@ $lang = array(
 'reset_password' => 'Reset Password',
 
 'successfully_changed_password' => 'You have successfully changed your password. Please login using your new password.',
+
+'send_request' => 'Send Request',
+
+'sending' => 'sending...',
+
+'change_password' => 'Change Password',
+
+'updating' => 'updating...',
 
 );
 

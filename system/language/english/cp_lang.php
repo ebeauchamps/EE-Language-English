@@ -5,7 +5,6 @@ $lang = array(
 /* no Javascript Warning */
 'no_js_warning' => 'Javascript must be enabled in order for this theme to function properly. Please check your browser settings.',
 
-
 /* Develop Menu */
 'addon_manager' => 'Add-Ons',
 
@@ -44,6 +43,8 @@ $lang = array(
 'jump_menu_item' => 'Jump Menu',
 
 'jump_menu_input' => 'Jump To...',
+
+'many_jump_results' => 'More than 10 results found, please refine your search',
 
 'menu_manager' => 'Menu Manager',
 
@@ -233,7 +234,6 @@ $lang = array(
 
 'update' => 'Update',
 
-
 /* Log */
 'action' => 'Action',
 
@@ -266,7 +266,6 @@ $lang = array(
 'member_logged_out' => 'Logged out',
 
 'member_login_as' => 'Member logged in as "%s" (%d)',
-
 
 /* Common */
 'by_date' => 'by date',
@@ -408,7 +407,6 @@ $lang = array(
 
 'add_site' => 'Add Site',
 
-
 /* learning EE lang vars */
 'building_ee_site_01' => 'Building An ExpressionEngine Site - Chapter 01',
 
@@ -456,7 +454,6 @@ $lang = array(
 
 'wiki' => 'Wiki',
 
-
 /* License Errors */
 'corrupt_license_file' => 'The license file provided is missing data. <a href="%s">Please upload your license.</a>',
 
@@ -468,12 +465,10 @@ $lang = array(
 
 'missing_pubkey' => 'The ExpressionEngine product is missing data. Pleas visit <a href="%s" rel="external">expressionengine.com</a> and download a fresh copy.',
 
-
 /* CP Errors */
 '404_does_not_exist' => '404: Item does not exist',
 
 '404_does_not_exist_desc' => 'Sorry, we could not find the item you are trying to access in the system.',
-
 
 /* Common */
 'alphadash_desc' => 'No spaces. Underscores and dashes are allowed.',
@@ -667,10 +662,11 @@ $lang = array(
 
 'session_timeout' => 'Your administration access session has timed out. Please use the form below to log back into your control panel.',
 
+'log_into' => 'Log into %s',
+
 'up_to_date' => 'Up to date!',
 
 'version' => 'Version',
-
 
 /* confirm removal modal */
 'btn_confirm_and_remove' => 'Confirm, and Remove',
@@ -702,7 +698,6 @@ $lang = array(
 'confirm_show_all_btn' => 'Show All',
 
 'confirm_show_all_desc' => 'Viewing more than %d items at a time may result in reduced performance.',
-
 
 /* HTML Buttons */
 'html_btn_anchor' => 'Link',
@@ -774,7 +769,6 @@ $lang = array(
 'dashboard_layout_save_error' => 'Could not save layout',
 
 'dashboard_needs_some_widgets' => 'Please enable at least one widget',
-
 
 );
 

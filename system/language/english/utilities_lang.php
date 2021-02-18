@@ -4,7 +4,6 @@ $lang = array(
 
 'system_utilities' => 'System Utilities',
 
-
 /* Menu */
 
 'backup_database' => 'Backup Database',
@@ -46,7 +45,6 @@ $lang = array(
 'sql_manager_abbr' => '<abbr title="Structured Query Language">SQL</abbr> Manager',
 
 'statistics' => 'Statistics',
-
 
 /* Communicate */
 'add_member_roles' => 'Add member role(s)',
@@ -105,9 +103,8 @@ $lang = array(
 
 'view_email_cache' => 'Sent Emails',
 
-
 /* CP Translation */
-'cannot_access' => 'Language files cannot be accessed. Please <a href="'.DOC_URL.'/control-panel/utilities.html#language-files" rel="external">consult documentation</a> on placing the files into right folder.',
+'cannot_access' => 'Language files cannot be accessed. Please <a href="' . DOC_URL . '/control-panel/utilities.html#language-files" rel="external">consult documentation</a> on placing the files into right folder.',
 
 'cannot_create_zip' => 'Cannot create a .zip file',
 
@@ -125,7 +122,7 @@ $lang = array(
 
 'search_files_button' => 'Search Files',
 
-'trans_file_not_writable'=> 'Translation file is not writeable.',
+'trans_file_not_writable' => 'Translation file is not writeable.',
 
 'translate_btn' => 'Save Translations',
 
@@ -135,10 +132,8 @@ $lang = array(
 
 'translations_saved' => 'Translations Saved',
 
-
 /* PHP Info */
 'php_info_title' => '<abbr title="Preprocessor Hypertext Processor">PHP</abbr> %s Info',
-
 
 /* Cache Manager */
 'all_caches' => 'All Caches',
@@ -160,7 +155,6 @@ $lang = array(
 'tags' => 'Tags',
 
 'templates' => 'Templates',
-
 
 /* Search and Replace */
 'btn_sandr' => 'Search and Replace',
@@ -202,7 +196,6 @@ $lang = array(
 'site_preferences' => 'Site Preferences',
 
 'template_groups' => 'Template Groups',
-
 
 /* Import Converter */
 'assign_fields' => 'Assign Fields',
@@ -251,7 +244,6 @@ $lang = array(
 
 'import_converter' => 'Member Import File Converter',
 
-
 'import_password_warning' => '<b>Warning</b>: If you don\'t map one of your data points to "Password", a random encrypted password will be assigned to each imported user. These users will need to reset their password via the "Forgot Password" link.',
 
 'member_file' => 'Member file',
@@ -285,7 +277,6 @@ $lang = array(
 'tab_delimit' => 'Tab',
 
 'xml_code' => 'XML Code',
-
 
 /* Member Import */
 'btn_add_fields' => 'Add Fields',
@@ -360,7 +351,6 @@ $lang = array(
 
 'xml_parse_error_desc' => 'Check the XML file for any incorrect syntax.',
 
-
 /* Database Backup Utility */
 'backing_up' => 'Backing up...',
 
@@ -381,7 +371,6 @@ $lang = array(
 'not_enough_free_disk_space' => 'There is not enough free disk space to write your backup. %s needed.',
 
 'table_count' => '<b>%s</b> tables',
-
 
 /* SQL Query Form */
 'affected_rows' => 'Affected Rows',
@@ -424,7 +413,6 @@ $lang = array(
 
 'type_phrase' => 'type phrase...',
 
-
 /* Statistics */
 'channel_titles' => 'Channel Entries',
 
@@ -445,7 +433,6 @@ $lang = array(
 'sync' => 'Sync',
 
 'sync_completed' => 'Synchronization Completed',
-
 
 /* SQL Manager */
 'database_tables' => 'Database Tables',
@@ -539,6 +526,14 @@ $lang = array(
 'debug_tools_instruction' => '<a href="%s">Click here</a> to navigate to Developer &rarr; Utilities &rarr; Debug Tools in Control Panel for details and fix.',
 
 'debug_tools_debug_tags' => 'Debug Template Tags',
+
+'debug_tools_installed' => 'Installed',
+
+'debug_tools_tag' => 'Tag',
+
+'debug_tools_addon' => 'Add-on',
+
+'debug_tools_count' => 'Count',
 
 'debug_tools_broken_tags_found' => 'We found %s broken or problematic template tags.',
 

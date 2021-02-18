@@ -472,13 +472,12 @@ $lang = array(
 
 'versioning' => 'Versioning Preferences',
 
-
 /* Generic Phrases */
 'delete' => 'Delete',
 
 'delete_group' => 'Delete Group',
 
-'group'=> 'Group',
+'group' => 'Group',
 
 'group_name' => 'Group Name',
 
@@ -489,7 +488,6 @@ $lang = array(
 'rename_group' => 'Rename Group',
 
 'total_fields' => 'Total Fields',
-
 
 /* Category Administration */
 'add_edit_categories' => 'Add/Edit Categories',
@@ -597,7 +595,6 @@ $lang = array(
 'update_category_image' => 'Please update your category image to use the file field provided, or the old style image URL may be deleted upon saving.',
 
 'update_existing_cat_fields' => 'Update all existing categories in this group with your new formatting choice?',
-
 
 /* Custom field Administration */
 'add_edit_fields' => 'Add/Edit Fields',
@@ -732,7 +729,6 @@ $lang = array(
 
 'type_numeric' => 'Number',
 
-
 /* Status Administration */
 'add_edit_statuses' => 'Add/Edit Statuses',
 
@@ -788,7 +784,6 @@ $lang = array(
 
 'url_title_prefix' => 'URL Title Prefix',
 
-
 /* Channel Form Settings */
 'channel_form_allow_guest_posts' => 'Allow Guest Posts?',
 
@@ -803,7 +798,6 @@ $lang = array(
 'channel_form_settings' => 'Channel Form Settings',
 
 'channel_form_settings_updated' => 'Channel Form Settings Saved',
-
 
 /* Channel Entries API */
 'default_value' => 'Default value',

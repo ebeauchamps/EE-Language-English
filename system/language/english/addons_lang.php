@@ -43,7 +43,6 @@ $lang = array(
 
 'update_to_version' => 'Update to %s',
 
-
 /* confirm uninstall modal */
 'btn_confirm_and_uninstall' => 'Confirm, and Uninstall',
 
@@ -52,7 +51,6 @@ $lang = array(
 'confirm_uninstall' => 'Confirm Uninstall',
 
 'confirm_uninstall_desc' => 'You are attempting to uninstall the following items, please confirm this action.',
-
 
 /* Filters */
 'addons_installed' => 'Add-Ons Installed',
@@ -98,7 +96,6 @@ $lang = array(
 'uninstall' => 'Uninstall',
 
 'uninstalled' => 'Uninstalled',
-
 
 /* 2.x */
 'addons_extensions' => 'Extensions',

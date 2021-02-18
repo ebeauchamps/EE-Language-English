@@ -66,12 +66,10 @@ $lang = array(
 
 'valid_url' => 'This field must contain a valid URL.',
 
-
 /* Legacy form validation lib */
 'file_exists' => 'This path is either invalid or not writable.',
 
 'writable' => 'This path is either invalid or not writable.',
-
 
 /* special and legacy things */
 'auth_password' => 'The password entered is incorrect.',

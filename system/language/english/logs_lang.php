@@ -4,7 +4,6 @@ $lang = array(
 
 'system_logs' => 'System Logs',
 
-
 /* Sidebar */
 'all_consent_logs' => 'All %d Consent Audit Logs',
 
@@ -64,7 +63,6 @@ $lang = array(
 
 'view_throttle_log' => 'Access Throttling Logs',
 
-
 /* Developer Log */
 'clear_developer_logs' => 'Delete all Developer Logs',
 
@@ -106,7 +104,6 @@ $lang = array(
 
 'no_developer_logs_found' => 'No <b>Developer logs</b> found.',
 
-
 /* Email Log */
 'clear_email_logs' => 'Delete all Email Logs',
 
@@ -116,14 +113,12 @@ $lang = array(
 
 'subject' => 'Subject',
 
-
 /* Search Log */
 'clear_search_logs' => 'Delete all Search Logs',
 
 'no_search_logs_found' => 'No <b>Search logs</b> found.',
 
 'searched_for' => 'Searched for',
-
 
 /* Throttle Log */
 
@@ -140,7 +135,6 @@ $lang = array(
 'no_throttling_logs_found' => 'No <b>Throttling logs</b> found.',
 
 'throttling_disabled' => '<b>Throttling</b> Disabled',
-
 
 /* Filters */
 'custom_date' => 'custom date',

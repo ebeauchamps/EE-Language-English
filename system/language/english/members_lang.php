@@ -338,7 +338,7 @@ $lang = array(
 
 'password_desc' => 'Use lowercase and uppercase letters, numbers, and symbols for the strongest passwords.',
 
-'password_too_long' => 'Your password cannot be over '.PASSWORD_MAX_LENGTH.' characters in length',
+'password_too_long' => 'Your password cannot be over ' . PASSWORD_MAX_LENGTH . ' characters in length',
 
 'password_too_short' => 'Your password must be at least %d characters long',
 
@@ -426,7 +426,6 @@ $lang = array(
 
 'profile' => 'Profile',
 
-
 /* Member banning */
 'ban_message' => 'This site is currently unavailable',
 
@@ -461,7 +460,6 @@ $lang = array(
 'username_banning' => 'Restricted Usernames',
 
 'username_banning_instructions' => '<b>Place each username on a separate line</b><br> These usernames will not be allowed.',
-
 
 /* Member group settings */
 'access_privilege_caution' => 'Any setting marked with <span class="icon--caution" title="exercise caution"></span> should only be granted to people you trust implicitly.',
@@ -749,7 +747,6 @@ $lang = array(
 'utility' => 'Utility',
 
 'warning' => 'WARNING:',
-
 
 /* Member fields */
 'access_settings' => 'Settings',

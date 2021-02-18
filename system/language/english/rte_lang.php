@@ -2,7 +2,6 @@
 
 $lang = array(
 
-
 // Settings
 'rte_file_browser' => 'File Browser',
 'rte_file_browser_desc' => 'Which file browser should be used when browsing for images and files from your RTE fields?',
@@ -39,7 +38,6 @@ $lang = array(
 'rte_defer' => 'Defer CKEditor initialization?',
 'rte_defer_desc' => 'If you select “Yes”, RTE won’t initialize CKEditor until the field is clicked on.',
 
-
 // RTE
 
 'available_tool_sets' => 'Available Tool Sets',
@@ -72,7 +70,6 @@ $lang = array(
 
 'tool_set_name' => 'Name',
 
-
 /* Headings */
 'create_new_toolset' => 'Create a New Tool Set',
 
@@ -94,7 +91,6 @@ $lang = array(
 
 'toolsets' => 'Tool Sets',
 
-
 /* Snippets */
 'cancel' => 'Cancel',
 
@@ -103,7 +99,6 @@ $lang = array(
 'tool' => 'Tool',
 
 'toolset' => 'Tool Set',
-
 
 /* Flashes */
 
@@ -165,7 +160,6 @@ $lang = array(
 
 'valid_url_required' => 'A valid URL is required.',
 
-
 /* Labels */
 'available_tools' => 'Available Tools (not being used)',
 
@@ -200,6 +194,20 @@ $lang = array(
 'toolset_name' => 'Tool set Name',
 
 /* tool names */
+
+'paragraph_rte' => 'Paragraph',
+
+'heading_h1_rte' => 'Heading H1',
+
+'heading_h2_rte' => 'Heading H2',
+
+'heading_h3_rte' => 'Heading H3',
+
+'heading_h4_rte' => 'Heading H4',
+
+'heading_h5_rte' => 'Heading H5',
+
+'heading_h6_rte' => 'Heading H6',
 
 'bold_rte' => 'Bold',
 
@@ -261,5 +269,5 @@ $lang = array(
 
 'open_in_new_tab' => 'Open in a new tab',
 
-''=>''
+'' => ''
 );

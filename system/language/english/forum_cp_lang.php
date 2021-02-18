@@ -13,7 +13,6 @@ $lang = array(
 
 'new_category' => 'New Category',
 
-
 /* Sidebar */
 'create_new_board' => 'Create new forum board',
 
@@ -24,7 +23,6 @@ $lang = array(
 'forum_board' => 'Forum Board',
 
 'templates' => 'Templates',
-
 
 /* List / Index */
 'categories' => 'Categories',
@@ -39,10 +37,8 @@ $lang = array(
 
 'new_forum' => 'New forum',
 
-
 /* "Common" */
 'recipients' => 'recipients',
-
 
 /* Create / Edit Forum Alias Form */
 'alias_url' => 'Alias <abbr title="Unified Resource Locator">URL</abbr>',
@@ -80,7 +76,6 @@ $lang = array(
 'forum_alias_removed_desc' => 'The forum alias <b>%s</b> was removed.',
 
 'forum_board_desc' => 'Choose which forum board you want to create an alias for.',
-
 
 /* Create / Edit Forum Board Form */
 'all_files' => 'All file types',
@@ -327,7 +322,6 @@ $lang = array(
 
 'view_posts_desc' => 'Allow the following member groups to view posts.</em><em>Super Administrators are <b>always</b> allowed.',
 
-
 /* Create/Edit Category Form */
 'btn_save_category' => 'Save Category',
 
@@ -361,7 +355,6 @@ $lang = array(
 
 'status_desc' => 'Status assigned to this category.',
 
-
 /* Create/Edit Forum Form */
 'btn_save_forum' => 'Save forum',
 
@@ -391,7 +384,6 @@ $lang = array(
 
 'topic_and_post_settings' => 'Topic and Post Settings',
 
-
 /* Category Permissions */
 'btn_save_permissions' => 'Save Permissions',
 
@@ -409,7 +401,6 @@ $lang = array(
 
 'view_hidden_category_desc' => 'Allow the following member groups to view this category.</em> <em>Super Administrators are <b>always</b> allowed.',
 
-
 /* Forum Permissions */
 'edit_forum_settings_success' => 'Forum Permissions Updated',
 
@@ -424,7 +415,6 @@ $lang = array(
 'view_hidden_forum' => 'View hidden forums',
 
 'view_hidden_forum_desc' => 'Allow the following member groups to view this forum when hidden.</em><em>Super Administrators are <b>always</b> allowed.',
-
 
 /* Member Ranks */
 'btn_save_rank' => 'Save Rank',
@@ -471,7 +461,6 @@ $lang = array(
 
 'stars_desc' => 'Number of stars to show with this rank.',
 
-
 /* Administrators */
 'admin_type_individual' => 'Individual <i>&mdash; username, <b>not</b> screenname</i>',
 
@@ -512,7 +501,6 @@ $lang = array(
 'invalid_member_group' => 'The member group you submitted does not appear to be valid',
 
 'invalid_username' => 'The username you submitted does not appear to be valid',
-
 
 /* Moderators */
 'btn_save_moderator' => 'Save moderator',
@@ -576,7 +564,6 @@ $lang = array(
 'permissions_desc' => 'Moderators of this forum may take the following actions.',
 
 'remove_moderator' => 'remove moderator',
-
 
 /* Forum Publish Tab */
 'no_forum_permissions' => 'You do not have permissions to post to this forum.',

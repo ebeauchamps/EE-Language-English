@@ -12,7 +12,6 @@ $lang = array(
 
 'remove_file' => 'Remove File',
 
-
 /* Relationships */
 'any_author' => 'Any author',
 
@@ -253,7 +252,6 @@ $lang = array(
 'url_ft_url_scheme_placeholder' => 'URL Scheme Placeholder',
 
 'url_ft_url_scheme_placeholder_desc' => 'Displayed as placeholder text when no URL has been submitted.',
-
 
 /* Color Picker */
 'colorpicker_allowed_colors' => 'Allowed Colors',

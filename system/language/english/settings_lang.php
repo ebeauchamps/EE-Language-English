@@ -51,7 +51,6 @@ $lang = array(
 
 'word_censoring' => 'Word Censoring',
 
-
 /* General Settings */
 '12_hour' => '12-hour with AM/PM',
 
@@ -108,7 +107,6 @@ $lang = array(
 'version_autocheck' => 'New version auto check',
 
 'version_autocheck_desc' => 'When set to <b>auto</b>, ExpressionEngine will automatically check for newer versions of the software.',
-
 
 /* URLs and Path Settings */
 'base_path' => 'Default base path',
@@ -168,7 +166,6 @@ $lang = array(
 'url_title_separator_opt_hyphen' => 'Hyphen (different-words)',
 
 'url_title_separator_opt_under' => 'Underscore (different_words)',
-
 
 /* Outgoing Email */
 'email_charset' => 'Character encoding',
@@ -230,7 +227,6 @@ $lang = array(
 'word_wrap' => 'Enable word-wrapping?',
 
 'word_wrap_desc' => 'When enabled, the system will wrap long lines of text to a more readable width.',
-
 
 /* Debugging & Output */
 'caching_driver' => 'Caching Driver',
@@ -297,7 +293,6 @@ $lang = array(
 
 'use_newrelic_desc' => 'When enabled, New Relic will add <a href="https://docs.newrelic.com/docs/browser/new-relic-browser/page-load-timing-resources/instrumentation-browser-monitoring" rel="external">Real User Monitoring JavaScript</a> to all of your web pages.',
 
-
 /* Content & Design */
 'auto_assign_cat_parents' => 'Assign category parents?',
 
@@ -349,7 +344,6 @@ $lang = array(
 
 'thumbnail_suffix_desc' => 'Added to all auto-generated thumbnails. <b>Example</b>: photo_thumb.jpg',
 
-
 /* Comment Settings */
 'all_comments' => 'All Comments',
 
@@ -370,7 +364,6 @@ $lang = array(
 'enable_comments_desc' => 'When enabled, channels will be able to use the comment module.',
 
 'options' => 'Options',
-
 
 /* Template Settings */
 'max_tmpl_revisions' => 'Maximum revisions?',
@@ -395,7 +388,6 @@ $lang = array(
 
 'template_manager' => 'Template Manager',
 
-
 /* Hit Tracking */
 'dynamic_tracking_disabling' => 'Suspend threshold?',
 
@@ -419,7 +411,6 @@ $lang = array(
 
 'max_referrers' => 'Maximum recent referrers to save',
 
-
 /* Word Censoring */
 'censor_replacement' => 'Replacement characters',
 
@@ -432,7 +423,6 @@ $lang = array(
 'enable_censoring' => 'Enable censorship?',
 
 'enable_censoring_desc' => 'When enabled, words listed will be replaced with the specified replacement characters.',
-
 
 /* Member Settings */
 'allow_member_localization' => 'Allow members to set time preferences?',
@@ -502,7 +492,6 @@ $lang = array(
 'require_terms_of_service' => 'Require terms of service?',
 
 'require_terms_of_service_desc' => 'When enabled, users must agree to terms of service during registration.',
-
 
 /* Menu Manager */
 'add_menu_item' => 'Add Menu Item',
@@ -575,7 +564,6 @@ $lang = array(
 
 'submenu_desc' => 'Links in dropdown',
 
-
 /* Messages */
 'attachment_settings' => 'Attachment Settings',
 
@@ -613,7 +601,6 @@ $lang = array(
 
 'prv_msg_upload_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> location of your <code>attachments</code> directory.',
 
-
 /* Avatars */
 'avatar_file_restrictions' => 'Avatar File Restrictions',
 
@@ -632,7 +619,6 @@ $lang = array(
 'avatar_url' => 'Avatar directory',
 
 'avatar_url_desc' => '<abbr title="Uniform Resource Location">URL</abbr> location of your <code>avatar</code> directory.',
-
 
 /* CAPTCHA */
 'captcha_font' => 'Use TrueType font?',
@@ -662,7 +648,6 @@ $lang = array(
 'require_captcha' => 'Require <abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr>?',
 
 'require_captcha_desc' => 'When enabled, visitors will be required to fill in a <abbr title="Completely Automated Public Turing test to tell Computers and Humans Apart">CAPTCHA</abbr> field for all front-end forms.',
-
 
 /* Security & Privacy */
 'allow_dictionary_pw' => 'Allow dictionary words in passwords?',
@@ -739,7 +724,7 @@ $lang = array(
 
 'require_cookie_consent' => 'Require user consent to set cookies?',
 
-'require_cookie_consent_desc' => 'When enabled, cookies will not be set for the visitor (except those <b>strictly necessary</b> for the web site to function) until they have consented to your site\'s cookie policy. See the <a href="'.DOC_URL.'add-ons/consent.html">Consent Module documentation</a> for more details.',
+'require_cookie_consent_desc' => 'When enabled, cookies will not be set for the visitor (except those <b>strictly necessary</b> for the web site to function) until they have consented to your site\'s cookie policy. See the <a href="' . DOC_URL . 'add-ons/consent.html">Consent Module documentation</a> for more details.',
 
 'require_ip_for_login' => 'Require user agent and <abbr title="Internet Protocol">IP</abbr> for login?',
 
@@ -772,7 +757,6 @@ $lang = array(
 'xss_clean_uploads' => 'Apply <abbr title="Cross Site Scripting">XSS</abbr> filtering?',
 
 'xss_clean_uploads_desc' => 'When enabled, forms will apply <abbr title="Cross Site Scripting">XSS</abbr> filtering to submissions.',
-
 
 /* Access Throttling */
 'banish_404' => 'Send to 404',
@@ -810,7 +794,6 @@ $lang = array(
 'time_interval' => 'Time interval',
 
 'time_interval_desc' => 'The number of seconds during which the above number of page loads are allowed.',
-
 
 /* HTML Buttons */
 'create_html_buttons_error' => 'Cannot Create <abbr title="Hyper-Text Markup Language">HTML</abbr> Button',

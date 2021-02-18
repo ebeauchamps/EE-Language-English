@@ -14,7 +14,6 @@ $lang = array(
 
 'channel_form_unknown_channel' => 'The specified channel does not exist.',
 
-
 /* rules */
 'alpha' => 'The %s field may only contain alphabetical characters.',
 

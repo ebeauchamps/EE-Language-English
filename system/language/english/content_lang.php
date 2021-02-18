@@ -178,7 +178,6 @@ $lang = array(
 
 'url_title_desc' => '<abbr title="Unified Resource Locator">URL</abbr> location of this entry.',
 
-
 /* Publish page */
 'action_delete' => 'Delete',
 
@@ -782,7 +781,6 @@ $lang = array(
 
 'you_have_uploaded' => 'You have uploaded the following file:',
 
-
 /* Textarea Buttons */
 'create_blockquote' => 'create blockquote',
 
@@ -805,7 +803,6 @@ $lang = array(
 'open_spellcheck' => 'open spellcheck',
 
 'view_code' => 'view code',
-
 
 /* Relationships */
 'add_new_html_button' => 'Add New HTML button',
@@ -849,7 +846,6 @@ $lang = array(
 'search_related_entries' => 'Search related entries',
 
 'show_tools' => 'Show Tools',
-
 
 /* writemode */
 'add_file' => 'Add File',
@@ -931,7 +927,6 @@ $lang = array(
 'wm_discard_changes' => 'Discard Changes',
 
 'wm_publish_to_field' => 'Publish to Field',
-
 
 /* Publish Tabs */
 'menu_categories' => 'Categories',

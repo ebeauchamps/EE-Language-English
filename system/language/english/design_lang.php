@@ -134,7 +134,7 @@ $lang = array(
 
 'enable_php' => 'Allow PHP?',
 
-'enable_php_desc' => 'When enabled, you can use standard PHP within this template. <a href="'.DOC_URL.'templates/overview.html#php-in-templates" rel="external">Read about the implications before enabling</a>.',
+'enable_php_desc' => 'When enabled, you can use standard PHP within this template. <a href="' . DOC_URL . 'templates/overview.html#php-in-templates" rel="external">Read about the implications before enabling</a>.',
 
 'enable_template_variable_on_all_sites' => 'Enable on all sites?',
 
@@ -296,7 +296,6 @@ $lang = array(
 
 'zero_template_groups_found' => 'No <b>Template Groups</b> found',
 
-
 /* System Templates -> Messages */
 'message_template' => 'User Messages',
 
@@ -309,7 +308,6 @@ $lang = array(
 'system_message_templates' => 'System Message Templates',
 
 'post_install_message_template' => 'Post-install Message',
-
 
 /* System Templates -> Email */
 'comments' => 'Comments',
@@ -332,12 +330,10 @@ $lang = array(
 
 'variables_desc' => 'List of available variables for this Email template.',
 
-
 /* System Templates -> Members */
 'file_not_writable' => '<b>Warning</b>: This file is not writable',
 
 'file_writing_instructions' => 'You will not be able to save changes to this template until it is given write permissions for this server.',
-
 
 /* System Templates -> Forums */
 'forum_manager' => 'Forum Manager',
@@ -347,7 +343,6 @@ $lang = array(
 'unable_to_find_template_file' => 'Unable to locate the template file.',
 
 'unable_to_find_templates' => 'Unable to locate the templates.',
-
 
 /* Menu */
 'forum_themes' => 'Forum Themes',
@@ -363,7 +358,6 @@ $lang = array(
 'themes' => 'Themes',
 
 'wiki_themes' => 'Wiki Themes',
-
 
 /* Templates */
 '404_page' => '404 Page',
@@ -562,7 +556,7 @@ $lang = array(
 
 'output' => 'Output',
 
-'php_in_templates_warning' => '<b>Warning</b>: Allowing PHP in templates has <a href="'.DOC_URL.'templates/overview.html#php-in-templates" target="_blank" rel="external">security implications</a>.',
+'php_in_templates_warning' => '<b>Warning</b>: Allowing PHP in templates has <a href="' . DOC_URL . 'templates/overview.html#php-in-templates" target="_blank" rel="external">security implications</a>.',
 
 'php_in_templates_warning2' => 'Any setting marked with %s should be used with caution.',
 
@@ -785,7 +779,6 @@ $lang = array(
 'xml_type_col' => '<abbr title="Extensible Markup Language">XML</abbr>',
 
 'you_must_submit_a_name' => 'Your template must have a name',
-
 
 /* Profile Theme Templates */
 'activation_email_resent' => 'Activation Email Resent',

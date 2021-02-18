@@ -10,7 +10,6 @@ $lang = array(
 
 'pconnect' => 'Persistent Database Connection',
 
-
 /* Member List Config */
 'memberlist_asc' => 'Ascending',
 
@@ -32,7 +31,6 @@ $lang = array(
 
 'xss_clean_uploads' => 'Apply XSS Filtering to uploaded files?',
 
-
 /* Explanatory Blurbs */
 'channel_administration_blurb' => 'This area enables you to manage your channels, preferences, and content-related sub-systems.',
 
@@ -49,7 +47,6 @@ $lang = array(
 'system_preferences_blurb' => 'This area enables you to manage your system configuration and global preferences.',
 
 'utilities_blurb' => 'This area contains ancillary utilities that help you manage ExpressionEngine.',
-
 
 /* Extensions Stuff */
 'available_extensions' => 'Available Extensions',
@@ -117,7 +114,6 @@ $lang = array(
 'toggle_extension_confirmation' => 'Are you sure you wish to perform this action?',
 
 'webmaster_name' => 'Webmaster or site name for auto-generated emails',
-
 
 /* Admin Page */
 '12_hour' => '12-hour with AM/PM',
